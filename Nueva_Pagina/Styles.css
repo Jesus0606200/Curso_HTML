@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+
+.tituloPrincipal{}
+
+.title{
+    font-size: 2.8em;
+    color: crimson;
+}
+
+#principal{
+    font-size: 4.5em;
+}
+
+.logo{
+    width: 300px;
+}
+
+#titulos{
+    border: 2px solid black;
+}
